@@ -1,10 +1,13 @@
 # NAME.- DEEPIKA G
 # REG NO.- 212224040060
+
 Ex.No:1a Study of Socket Programming
+
 Aim:
 To perform a study on Socket Programming
 
 Introduction:
+
 Socket programming is a crucial aspect of network communication, allowing for data exchange between computers over a network. It forms the backbone of various networked applications, enabling communication between clients and servers. This study explores the fundamental concepts of socket programming, its use cases, and provides a practical example to demonstrate its implementation.
 Understanding Socket Programming:
 Socket programming involves the use of sockets, which serve as endpoints for communication. A socket is identified by an IP address and a port number, and it facilitates data transfer between a client and a server. The two main types of sockets are Stream Sockets, which provide a reliable, connection-oriented communication, and Datagram Sockets, which are connectionless and suitable for scenarios where reliability is less critical.
@@ -12,6 +15,7 @@ Key Concepts in Socket Programming:
 1.Sockets • A socket is a software representation of a communication endpoint in a network. • It is identified by an IP address and a port number. • Sockets can be classified into two main types: Stream Sockets and Datagram Sockets. • Stream Sockets provide a reliable, connection-oriented communication, while Datagram Sockets are connectionless and operate in a best-effort mode.
 
 Client-Server Model
+
 * Socket programming typically follows the client-server model. • The server listens for incoming connections from clients, while clients initiate connections to the server. • Servers are passive, waiting for connection requests, and clients are active, initiating communication.
 
 3, TCP/IP Protocol:
@@ -37,5 +41,6 @@ Chat Application: Instant messaging and chat applications use sockets to enable 
 File Transfer Protocol: Protocols like FTP (File Transfer Protocol) utilize socket programming for transferring files between a client and a server.
 Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
+
 Result:
 Thus the study of Socket Programming Completed Successfully
