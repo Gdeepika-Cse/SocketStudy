@@ -42,5 +42,11 @@ File Transfer Protocol: Protocols like FTP (File Transfer Protocol) utilize sock
 Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
+## Program and Outcome:
+
+!(https://github.com/user-attachments/assets/3be3d07b-2740-4b64-9f61-4cf0961f4ade)
+
+!(https://github.com/user-attachments/assets/df43622d-a158-4726-80d0-01241cb8b030)
+
 Result:
 Thus the study of Socket Programming Completed Successfully
