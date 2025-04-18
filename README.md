@@ -44,7 +44,10 @@ RPC mechanisms: which allow processes to execute code on a remote server, often 
 
 ## Program and Outcome:
 
-!(https://github.com/user-attachments/assets/3be3d07b-2740-4b64-9f61-4cf0961f4ade)
+![Screenshot 2025-04-18 211200](https://github.com/user-attachments/assets/a32010d7-c5f6-4dca-b5cb-883a2db3b104)
+
+![Screenshot 2025-04-18 211213](https://github.com/user-attachments/assets/312ad15d-2c7f-448b-bdee-529a5b7c2c94)
+
 
 !(https://github.com/user-attachments/assets/df43622d-a158-4726-80d0-01241cb8b030)
 
